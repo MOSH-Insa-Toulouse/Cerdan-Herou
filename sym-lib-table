@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "test arduino-cache")(type Legacy)(uri "/Users/utilisateur/Desktop/3D_Printer_Watchdog/Arduino shield/test arduino-cache.lib")(options "")(descr ""))
+)
